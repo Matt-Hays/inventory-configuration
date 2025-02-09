@@ -1,4 +1,4 @@
-package csi5347.inventory-configuration;
+package csi5347.inventory_configuration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
